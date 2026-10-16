@@ -1,5 +1,11 @@
 # HOL-01 — Exact finite monodromy certificate at p = 7 for a Barning-Berggren congruence graph
 
+<!-- research-vision-20261016 -->
+> **Research programme and ambitions · 16 October 2026**  
+> [Présentation en français](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_FR.md) · [Research vision in English](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_EN.md)  
+> Our research dream is to turn a result into reasoning that can be recovered, tested and passed on. The finite congruence-graph certificate supplies a bounded example of transporting structure. The presentation distinguishes existing work, proposed experiments and research dreams. This repository retains its own claim and review boundaries.
+<!-- /research-vision-20261016 -->
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22978389.svg)](https://doi.org/10.5281/zenodo.22978389)
 
 **Version 1.1.1 — finite computational certificate with an explicit claim boundary**
