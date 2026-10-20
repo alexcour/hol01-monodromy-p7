@@ -1,5 +1,7 @@
 # HOL-01 — Exact finite monodromy certificate at p = 7 for a Barning-Berggren congruence graph
 
+> **Authorship clarification · 20 October 2026.** Alexandre Couret is the author responsible for this programme. First-person plural wording in the linked research vision refers to his workflow with AI assistants; it does not designate a team of human coauthors or an independent validation. AI systems are assistance tools, not authors.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22978389.svg)](https://doi.org/10.5281/zenodo.22978389)
 
 **Version 1.1.1 — finite computational certificate with an explicit claim boundary**
