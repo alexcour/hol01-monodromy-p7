@@ -3,8 +3,10 @@
 <!-- research-vision-20261016 -->
 > **Research programme and ambitions · 16 October 2026**  
 > [Présentation en français](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_FR.md) · [Research vision in English](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_EN.md)  
-> Our research dream is to turn a result into reasoning that can be recovered, tested and passed on. The finite congruence-graph certificate supplies a bounded example of transporting structure. The presentation distinguishes existing work, proposed experiments and research dreams. This repository retains its own claim and review boundaries.
+> The aim of this programme is to make results recoverable, testable and transferable. The finite congruence-graph certificate supplies a bounded example of transporting structure. The presentation distinguishes existing work, proposed experiments and research dreams. This repository retains its own claim and review boundaries.
 <!-- /research-vision-20261016 -->
+
+> **Authorship clarification · 20 October 2026.** Alexandre Couret is the author responsible for this programme. First-person plural wording in the linked research vision refers to his workflow with AI assistants; it does not designate a team of human coauthors or an independent validation. AI systems are assistance tools, not authors.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22978389.svg)](https://doi.org/10.5281/zenodo.22978389)
 
