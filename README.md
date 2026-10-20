@@ -1,11 +1,5 @@
 # HOL-01 — Exact finite monodromy certificate at p = 7 for a Barning-Berggren congruence graph
 
-<!-- research-vision-20261016 -->
-> **Research programme and ambitions · 16 October 2026**  
-> [Présentation en français](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_FR.md) · [Research vision in English](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_EN.md)  
-> The aim of this programme is to make results recoverable, testable and transferable. The finite congruence-graph certificate supplies a bounded example of transporting structure. The presentation distinguishes existing work, proposed experiments and research dreams. This repository retains its own claim and review boundaries.
-<!-- /research-vision-20261016 -->
-
 > **Authorship clarification · 20 October 2026.** Alexandre Couret is the author responsible for this programme. First-person plural wording in the linked research vision refers to his workflow with AI assistants; it does not designate a team of human coauthors or an independent validation. AI systems are assistance tools, not authors.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22978389.svg)](https://doi.org/10.5281/zenodo.22978389)
@@ -207,3 +201,7 @@ See [PUBLICATION_STATUS.md](PUBLICATION_STATUS.md) for identifiers, dates, archi
 ## Consolidated novelty boundary
 
 The underlying Pythagorean dynamics, congruence methods and group-theoretic mechanisms are classical. This release contributes an exact reproducible finite p=7 certificate. A targeted prior-art search did not identify the exact finite package; no priority claim is inferred from that absence.
+
+## Programme context
+
+[Présentation du programme en français](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_FR.md) · [Programme overview in English](https://github.com/alexcour/couret-finite-verifications/blob/main/RESEARCH_VISION_EN.md). The scope, review status and version of this repository are specified above.
