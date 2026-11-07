@@ -207,3 +207,7 @@ See [PUBLICATION_STATUS.md](PUBLICATION_STATUS.md) for identifiers, dates, archi
 ## Consolidated novelty boundary
 
 The underlying Pythagorean dynamics, congruence methods and group-theoretic mechanisms are classical. This release contributes an exact reproducible finite p=7 certificate. A targeted prior-art search did not identify the exact finite package; no priority claim is inferred from that absence.
+
+## Consignes pour les agents
+
+Les interventions assistées suivent les [consignes du dépôt](AGENTS.md).
